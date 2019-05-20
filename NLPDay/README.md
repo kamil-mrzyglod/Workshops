@@ -6,7 +6,7 @@ Before you get started, run the following command to install Azure Cognitive Ser
 ```
 pip install azure-cognitiveservices-vision-computervision
 ```
-Once the package is installed, go to the `getting-started` directory and run the `gettingstarted.py` file. You will both ACCOUNT_ENDPOINT and ACCOUNT_KEY values, which can be either obtained from your Azure Cognitive Services instance or by getting a free, 7-day trial version: https://azure.microsoft.com/en-us/try/cognitive-services/.
+Once the package is installed, go to the `getting-started` directory and run the `gettingstarted.py` file. You will find ACCOUNT_ENDPOINT and ACCOUNT_KEY values, which can be either obtained from your Azure Cognitive Services instance or by getting a free, 7-day trial version: https://azure.microsoft.com/en-us/try/cognitive-services/.
 
 The result of running the script should be similar to the following:
 ```
